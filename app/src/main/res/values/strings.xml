@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="btn_start">Начать не в потоке</string>
+    <string name="check">Проверка</string>
+    <string name="btn_just_do_it">Начать в потоке</string>
+    <string name="get_data">Получить данные</string>
+</resources>
